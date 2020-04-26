@@ -9,7 +9,7 @@ const App = () => {
     <div>
         <GMSBanner />
         <HeaderNav />
-        app
+        BODY
     </div>
   );
 };
